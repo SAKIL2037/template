@@ -1,0 +1,13 @@
+{
+    "name": "microweber/template-electron",
+    "type": "microweber-template",
+	"description": "Electron",
+    "homepage": "https://microweber.org/templates/microweber/template-electron",
+    "extra": {
+        "folder": "electron"
+    },
+  "target-dir": "electron",
+    "extra": {
+        "preview_url": "https://templates.microweber.com/electron/"
+    }
+}
