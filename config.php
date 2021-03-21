@@ -1,7 +1,7 @@
 <?php
 
 $config = array();
-$config['name'] = "droptienda";
+$config['name'] = "Electron";
 $config['author'] = "droptienda";
 $config['version'] = 1.5;
 $config['url'] = "http://microweber.com";
